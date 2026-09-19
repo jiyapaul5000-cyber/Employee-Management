@@ -78,27 +78,27 @@ GET /api/Employees?search=Jiya&minSalary=30000&descending=true&page=1&pageSize=1
 
 ### Login
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### Employee Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Search & Filtering
 
-![Search and Filtering](screenshots/search-filter.png)
+![Search and Filtering](Screenshots/search-filter.png)
 
 ### Add Employee
 
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](Screenshots/add-employee.png)
 
 ### Update Employee
 
-![Update Employee](screenshots/update-employee.png)
+![Update Employee](Screenshots/update-employee.png)
 
 ### Delete Employee
 
-![Delete Employee](screenshots/delete-employee.png)
+![Delete Employee](Screenshots/delete-employee.png)
 
 ## 🔐 Authentication
 
