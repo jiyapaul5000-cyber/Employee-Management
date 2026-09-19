@@ -73,16 +73,13 @@ The `GET /api/Employees` endpoint supports:
 ```text
 GET /api/Employees?search=Jiya&minSalary=30000&descending=true&page=1&pageSize=10
 ```
-
-## 📸 Screenshots
-
 ### Login
 
-![Login](Screenshots/login.png)
+![Login](Screenshots/Login.png)
 
 ### Employee Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dasnboard.png)
 
 ### Search & Filtering
 
